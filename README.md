@@ -66,5 +66,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the [MIT License](LICENSE).
 ```
+## Demo Video
+[Watch the demo video on VEED.io](https://www.veed.io/view/9a0cf0a9-ab68-4580-b94d-da408a6b6e1f)
 
-This version removes any unnecessary symbols like leading spaces and non-breaking spaces, making it cleaner and easier to read.
